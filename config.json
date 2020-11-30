@@ -2,5 +2,9 @@
   {
     "filename": "Microsoft.PowerShell_profile.ps1",
     "location": "$PROFILE"
+  },
+  {
+    "filename": "settings.json",
+    "location": "%LocalAppData%/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState"
   }
 ]
