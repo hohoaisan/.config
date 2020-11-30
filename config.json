@@ -1,0 +1,6 @@
+[
+  {
+    "filename": "Microsoft.PowerShell_profile.ps1",
+    "location": "$PROFILE"
+  }
+]
